@@ -1,0 +1,16 @@
+__pycache__/
+
+python_result.txt
+result.txt
+cpp_result.txt
+
+output
+.DS_Store
+.idea
+CMakeLists.txt
+cmake-build-debug/
+crun-seq
+crun-par
+*.dSYM
+*.pyc
+data/test_input.txt
